@@ -172,6 +172,12 @@
    }
 
    /*============ Testimonial Section =============*/
+   /*============ Industry Blog Section =============*/
+   .single__industry {
+     height: auto;
+   }
+
+   /*============ Industry Blog Section =============*/
 
 
 
@@ -343,6 +349,14 @@
    }
 
    /*============ Package Section =============*/
+   /*============ Industry Blog Section =============*/
+   .single__industry {
+     height: auto;
+   }
+
+   /*============ Industry Blog Section =============*/
+
+
 
    /*============ Footer Section =============*/
    .footer_part .single_footer_part {
@@ -482,6 +496,12 @@
    }
 
    /*============ Package Section =============*/
+   /*============ Industry Blog Section =============*/
+   .single__industry {
+     height: 750px;
+   }
+
+   /*============ Industry Blog Section =============*/
 
    /*============ Footer Section =============*/
    .footer_part .single_footer_part {
